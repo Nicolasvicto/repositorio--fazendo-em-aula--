@@ -12,6 +12,6 @@ main{
     background-color: rgb(249, 252, 251);
 width: 500px;
 margin: auto;
-pad: 10px;
-box-shadow: 3px 3px 5px black;
+padding: 10px;
+box-shadow: 3px 3px 5px rgb(0, 0, 0);
 }
